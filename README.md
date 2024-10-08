@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umang Sharma</h1>
-<h3 align="center">I am Umang Sharma, currently pursuing my B.tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a Coder, I am always open to collaborating on projects and innovative/disruptive ideas.</h3>
+<h3 align="center">I am Umang Sharma, currently working at Accenture as an Associate Software Engineer.I am a Coder, I am always open to collaborating on projects and innovative/disruptive ideas.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/458522/screenshots/3394075/web_design_report_code.jpg?compress=1&resize=400x300"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-sharma-2407&label=Profile%20views&color=0e75b6&style=flat" alt="umang-sharma-2407" /> </p>
 
